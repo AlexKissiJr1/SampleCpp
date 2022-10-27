@@ -2,8 +2,8 @@
     "name": "SampleCPP",
     "version-string": "latest",
     "dependencies": [
-    //  "fmt"
-    //  "boost-config",
-    //  "sqlite3"
+      "fmt",
+     "boost-config",
+     "sqlite3"
     ]
   }
